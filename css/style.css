@@ -1,0 +1,47 @@
+* { margin: 0; padding: 0; box-sizing: border-box;}
+
+
+section {
+    margin-top: 1rem;
+    display: flex;
+    justify-content: space-between;
+   
+}
+
+section div {
+    flex-basis: 30%;
+    border: 2px solid black;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    padding: 2rem;
+    background-color: tomato;
+    color: #fff;
+}
+
+
+h4 {
+    text-align: center;
+    padding: 2px;
+    text-decoration: underline;
+}
+
+.box-1 {
+    
+    background-color:aqua;
+    
+  
+}
+.box-2 {
+   
+    background-color: yellow;
+
+}
+.box-3 {
+    
+    background-color:wheat;
+   
+}
+
